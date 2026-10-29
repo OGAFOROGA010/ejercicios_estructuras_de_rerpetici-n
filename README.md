@@ -1,1 +1,1 @@
-# ejercicios_estructuras_de_rerpetici-n
+# ejercicios_estructuras_de_rerpeticion
